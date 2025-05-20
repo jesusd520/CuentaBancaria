@@ -1,2 +1,2 @@
 # CuentaBancaria
-Package de cuenta bancaria en java
+Este codigo se encuentra en la otra rama "master" porque ha sido subido desde NetBeans
