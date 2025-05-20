@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class PruebaCuentaMain {
 
     public static void main(String[] args) {        
-        Scanner input = new Scanner(System.in); // Creamos un scanner
+        Scanner input = new Scanner(System.in); // Creamos un scanner 
         System.out.println("Cuenta de ahorros");
         System.out.println("Ingrese saldo inicial:");
         float saldoInicialAhorros = input.nextFloat();
